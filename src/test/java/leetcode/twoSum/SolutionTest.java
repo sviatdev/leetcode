@@ -1,7 +1,7 @@
-package leetcode;
+package leetcode.twoSum;
 
 import org.junit.jupiter.api.Test;
-import org.sviatdev.leetcode.TwoSum;
+import org.sviatdev.leetcode.twoSum.TwoSum;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
@@ -19,6 +19,7 @@ Only one valid answer exists.
 public class SolutionTest {
 
     private final TwoSum twoSum = new TwoSum();
+
     @Test
     void test_case1() {
         int[] nums = {2, 7, 11, 15};

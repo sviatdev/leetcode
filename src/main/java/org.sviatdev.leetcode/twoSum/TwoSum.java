@@ -1,4 +1,4 @@
-package org.sviatdev.leetcode;
+package org.sviatdev.leetcode.twoSum;
 
 public class TwoSum {
 
